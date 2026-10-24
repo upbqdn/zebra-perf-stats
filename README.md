@@ -1,5 +1,5 @@
-# Zebra vs Zakura: live Mainnet comparison
+# Zebra perf stats
 
-Same Mainnet blocks, fed at the same moment to three isolated nodes (Zakura, Zebra v7.0.0 and an optimized Zebra stack); the page reports each node's `submitblock` latency.
+Live Mainnet `submitblock` latency: the same blocks, fed at the same moment to three isolated nodes (Optimized Zebra, Zebra v7.0.0 and Zakura).
 
-Open the dashboard: https://upbqdn.github.io/zebra-zakura-live-comparison/
+Dashboard: https://upbqdn.github.io/zebra-perf-stats/
