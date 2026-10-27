@@ -1,3 +1,3 @@
 # Zebra perf stats
 
-https://upbqdn.github.io/zebra-perf-stats/
+Moved to https://marek.onl/zebra-perf/
